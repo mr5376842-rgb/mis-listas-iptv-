@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AztecaUno" tvg-name="Azteca Uno" group-title="México",Azteca Uno
+https://TU_PROVEEDOR.com/stream/azteca-uno.m3u8
+
+#EXTINF:-1 tvg-id="Azteca7" tvg-name="Azteca 7" group-title="México",Azteca 7
+https://TU_PROVEEDOR.com/stream/azteca-7.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellas" tvg-name="Las Estrellas" group-title="México",Las Estrellas
+https://TU_PROVEEDOR.com/stream/las-estrellas.m3u8
+
+#EXTINF:-1 tvg-id="Canal5" tvg-name="Canal 5" group-title="México",Canal 5
+https://TU_PROVEEDOR.com/stream/canal-5.m3u8
+
+#EXTINF:-1 tvg-id="CanalDeLasEstrellas" tvg-name="Canal de las Estrellas" group-title="México",Canal de las Estrellas
+https://TU_PROVEEDOR.com/stream/canal-de-las-estrellas.m3u8
+
+#EXTINF:-1 tvg-id="TelevisaUnivision" tvg-name="Televisa Univision" group-title="México",Televisa Univision
+https://TU_PROVEEDOR.com/stream/televisa-univision.m3u8
+
+#EXTINF:-1 tvg-id="TVAzteca" tvg-name="TV Azteca" group-title="México",TV Azteca
+https://TU_PROVEEDOR.com/stream/tv-azteca.m3u8
+
+#EXTINF:-1 tvg-id="N+L" tvg-name="N+L" group-title="México",N+L
+https://TU_PROVEEDOR.com/stream/nl.m3u8
+
+#EXTINF:-1 tvg-id="ForoTV" tvg-name="Foro TV" group-title="México",Foro TV
+https://TU_PROVEEDOR.com/stream/foro-tv.m3u8
+
+#EXTINF:-1 tvg-id="MilenioTV" tvg-name="Milenio TV" group-title="México",Milenio TV
+https://TU_PROVEEDOR.com/stream/milenio-tv.m3u8
+
+#EXTINF:-1 tvg-id="CNNEnEspañol" tvg-name="CNN en Español" group-title="Noticias",CNN en Español
+https://TU_PROVEEDOR.com/stream/cnn-en-espanol.m3u8
+
+#EXTINF:-1 tvg-id="BBCWorldNews" tvg-name="BBC World News" group-title="Noticias",BBC World News
+https://TU_PROVEEDOR.com/stream/bbc-world-news.m3u8
+
+#EXTINF:-1 tvg-id="FoxNews" tvg-name="Fox News" group-title="Noticias",Fox News
+https://TU_PROVEEDOR.com/stream/fox-news.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV" tvg-name="Caracol TV" group-title="Latino",Caracol TV
+https://TU_PROVEEDOR.com/stream/caracol-tv.m3u8
+
+#EXTINF:-1 tvg-id="RCN" tvg-name="RCN" group-title="Latino",RCN
+https://TU_PROVEEDOR.com/stream/rcn.m3u8
+
+#EXTINF:-1 tvg-id="CanalUno" tvg-name="Canal Uno" group-title="Latino",Canal Uno
+https://TU_PROVEEDOR.com/stream/canal-uno.m3u8
+
+#EXTINF:-1 tvg-id="TNTSeries" tvg-name="TNT Series" group-title="Entretenimiento",TNT Series
+https://TU_PROVEEDOR.com/stream/tnt-series.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="Warner Channel" group-title="Entretenimiento",Warner Channel
+https://TU_PROVEEDOR.com/stream/warner-channel.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" group-title="Entretenimiento",FX
+https://TU_PROVEEDOR.com/stream/fx.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="Entretenimiento",AXN
+https://TU_PROVEEDOR.com/stream/axn.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel" group-title="Documentales",Discovery Channel
+https://TU_PROVEEDOR.com/stream/discovery-channel.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic" group-title="Documentales",National Geographic
+https://TU_PROVEEDOR.com/stream/nat-geo.m3u8
+
+#EXTINF:-1 tvg-id="HistoryChannel" tvg-name="History Channel" group-title="Documentales",History Channel
+https://TU_PROVEEDOR.com/stream/history-channel.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Deportes",ESPN
+https://TU_PROVEEDOR.com/stream/espn.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" group-title="Deportes",ESPN 2
+https://TU_PROVEEDOR.com/stream/espn-2.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" group-title="Deportes",Fox Sports
+https://TU_PROVEEDOR.com/stream/fox-sports.m3u8
+
+#EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" group-title="Deportes",TUDN
+https://TU_PROVEEDOR.com/stream/tudn.m3u8
+
+#EXTINF:-1 tvg-id="Vix" tvg-name="ViX" group-title="Entretenimiento",ViX
+https://TU_PROVEEDOR.com/stream/vix.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" group-title="Niños",Cartoon Network
+https://TU_PROVEEDOR.com/stream/cartoon-network.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" group-title="Niños",Disney Channel
+https://TU_PROVEEDOR.com/stream/disney-channel.m3u8
